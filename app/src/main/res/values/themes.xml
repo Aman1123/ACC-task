@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AccTask" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#3949ab</item>
+        <item name="colorPrimaryDark">#00227b</item>
+        <item name="colorAccent">#6f74dd</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

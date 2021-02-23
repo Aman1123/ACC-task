@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374453659980",
+    "project_id": "acc-task",
+    "storage_bucket": "acc-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374453659980:android:05fb0b1a774c75346e07e9",
+        "android_client_info": {
+          "package_name": "com.example.acctask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374453659980-87vtdek3bih1d9n15bfmrn584rf0l50u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0x_nASNVm4hZfHNbvjSdWdHfdcH9I3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374453659980-87vtdek3bih1d9n15bfmrn584rf0l50u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
